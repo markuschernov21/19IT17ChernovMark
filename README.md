@@ -1,7 +1,9 @@
 # 19IT17ChernovMark
-Chernov Mark Serggevich
+Chernov Mark Sergeevich
 
-#Install
+# Install
+follow the installation instructions
+
 
 
 
